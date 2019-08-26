@@ -1,0 +1,3 @@
+[submodule "test-okta-plugin"]
+	path = test-okta-plugin
+	url = git@github.com:ProjectDrgn/test-okta-plugin.git
